@@ -1,3 +1,5 @@
+package Review2;
+
 public class SwitchReview {
     public static void main(String[] args) {
 

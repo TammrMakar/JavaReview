@@ -1,4 +1,4 @@
-package com.syntaxx.review1;
+package Review1;
 
 public class FirstReveiw {
     public static void main(String[] args) {

@@ -1,10 +1,7 @@
-package com.syntaxx.review1;
+package Review1;
 
-public class WhatIf {
+public class DataTypes {
     public static void main(String[] args) {
-
-
-
 
     }
 }
