@@ -8,7 +8,7 @@ public class Tesla extends Car{
     String type;
     boolean autoPilot;
 
-    Tesla(String make,String model,int year ,int horsePower,String type,Boolean autoPilot){
+   public  Tesla(String make,String model,int year ,int horsePower,String type,Boolean autoPilot){
         super(make,model,year,horsePower);
         this.type=type;
         this.autoPilot=autoPilot;

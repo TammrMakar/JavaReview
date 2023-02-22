@@ -2,11 +2,9 @@ package Review7;
 
 public class Car {
 
-   String make,model;
+   protected String make,model;
 
    int year ,horsePower;
-
-
 
    public Car(String make,String model){
        this.make=make;
